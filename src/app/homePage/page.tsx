@@ -34,7 +34,7 @@ const Page = () => {
     ])
 
     return (
-        <div className=" min-h-screen p-4">
+        <div className=" min-h-screen">
             <div className="max-w-md mx-auto bg-white rounded-lg overflow-hidden">
                 {/* Header */}
                 <div className="bg-gray-200 p-4 flex justify-between items-center">
