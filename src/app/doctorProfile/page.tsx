@@ -5,7 +5,7 @@ import { IoIosArrowBack } from "react-icons/io";
 
 export default function Home() {
     return (
-        <div className="min-h-screen flex flex-col items-center justify-center mt-lg">
+        <div className="min-h-screen flex flex-col items-center justify-around">
             <div className="bg-white rounded-lg w-full max-w-md">
                 <div className="bg-gray-200 p-4 flex fixed top-0 w-[448px] justify-start items-center gap-8 max-w-md">
                     <div className="w-6">
