@@ -38,7 +38,7 @@ const Page = () => {
         <div className='flex justify-center'>
             <div className='flex flex-col justify-center items-center max-w-md'>
 
-                <div className="bg-gray-200 p-4 z-100 flex justify-start gap-4 fixed top-0 items-center w-[448px]">
+                <div className="bg-gray-200 p-4 z-100 flex justify-start gap-8 fixed top-0 items-center w-[448px] max-w-md">
                     <div className="w-6">
                         <Link href={'/homePage'}>
                             <IoIosArrowBack size={24} />
